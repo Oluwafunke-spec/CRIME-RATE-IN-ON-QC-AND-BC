@@ -1,6 +1,5 @@
-# CRIME-RATE-IN-ON-QC-AND-BC
-Crime Rate Analysis in Ontario, Quebec, and British Columbia
-Introduction
+**##Crime Rate Analysis in Ontario, Quebec, and British Columbia**
+**Introduction**
 
 This project examines and contrasts the rate of assault crime in Ontario, Quebec, and British Columbia over the last ten years. The aim is to understand the trends and patterns of assault crimes in these provinces. Microsoft Power BI was utilized to generate visualizations, facilitating easier comparison and exploration of the data. The visualizations aided in comparing crime rates between provinces, identifying top cities with high assault rates, evaluating the relationship between youth and adult crime, and forecasting assault crime rates for the following year.
 Justification for the Visualization Tool
